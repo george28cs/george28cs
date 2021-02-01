@@ -7,7 +7,7 @@
 - 💼 &nbsp; Backend Developer at [Octopy](https://octopy.com/).
 - 🔭 &nbsp; I’m currently learning Sveltejs.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Enthusiast in cyber industrial Networks and virtualization.
+- 🌱 &nbsp; Enthusiast in industrial Networks and virtualization.
 - ♟️ &nbsp; Chess Player.
 
 <h3>🛠 Tech Stack</h3>
