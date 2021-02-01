@@ -18,11 +18,11 @@
 - 🔧 &nbsp; Visual Studio code | Git | GitLab 
 - 🎞️ &nbsp; Inkscape | Adobe Premiere
 
-<h3>🛠 Network skills</h3>
+<h3>🧰 Network skills</h3>
 
 - 📡 &nbsp; Trobleshooting | Design | Upgrades  
 - 💾 &nbsp; VMware Vsphere | VirtualBox | GNS3  
-- ⚔️ &nbsp; pFsense | Fortinet | WatchGuard  
+- 🛡️ &nbsp; pFsense | Fortinet | WatchGuard  
 - 🏭 &nbsp; Ethernet/IP | Modbus RTU & TCP | ControlNet   
 
 <br>
