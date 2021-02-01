@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | Python | BVA for Applications  
-- :atom: &nbsp; HTML | CSS | JavaScript | Svelte 
+- :atom: &nbsp; HTML | CSS | Nodejs | Svelte 
 - 🛢 &nbsp; MySQL | Firebase | Microsoft SQL | MongoDB | Postgres
 - 🔧 &nbsp; Visual Studio code | Git | GitLab 
 - 🎞️ &nbsp; Inkscape | Adobe Premiere
