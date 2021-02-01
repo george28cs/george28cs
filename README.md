@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Mechanical Electric Engineer.
-- 💼 &nbsp; Backend Developer at Octopy.
+- 💼 &nbsp; Backend Developer at [Octopy](https://octopy.com/).
 - 🔭 &nbsp; I’m currently learning Sveltejs.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Enthusiast in cyber industrial Networks and virtualization.
