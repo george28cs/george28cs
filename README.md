@@ -16,7 +16,7 @@
 - :atom: &nbsp; HTML | CSS | JavaScript | Svelte 
 - 🛢 &nbsp; MySQL | Firebase | Microsoft SQL | MongoDB | Postgres
 - 🔧 &nbsp; Visual Studio code | Git | GitLab 
-- 🖥 &nbsp; Inkscape | Adobe Premiere
+- 🎞️ &nbsp; Inkscape | Adobe Premiere
 
 <h3>🛠 Network skills</h3>
 
