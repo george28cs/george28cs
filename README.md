@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | Python | BVA for Applications  
+- 💻 &nbsp; JavaScript | Python | VBA for Applications  
 - :atom: &nbsp; HTML | CSS | Nodejs | Svelte 
 - 🛢 &nbsp; MySQL | Firebase | Microsoft SQL | MongoDB | Postgres
 - 🔧 &nbsp; Visual Studio code | Git | GitLab 
