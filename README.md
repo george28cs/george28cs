@@ -4,16 +4,16 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Mechanical Electric Engineer.
-- 💼 &nbsp; Backend Developer at [Octopy](https://octopy.com/).
-- 🔭 &nbsp; I’m currently learning Sveltejs.
+- 💼 &nbsp; Nodejs Backend Developer at [Octopy](https://octopy.com/).
+- 🔭 &nbsp; I’m currently learning Python.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Enthusiast in industrial Networks and virtualization.
 - ♟️ &nbsp; Chess Player.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | Python | VBA for Applications  
-- :atom: &nbsp; HTML | CSS | Nodejs | Svelte 
+- 💻 &nbsp; JavaScript | Python | TypeScript  
+- :atom: &nbsp; Nodejs | Nestjs | Svelte
 - 🛢 &nbsp; MySQL | Firebase | Microsoft SQL | MongoDB | Postgres
 - 🔧 &nbsp; Visual Studio code | Git | GitLab 
 - 🎞️ &nbsp; Inkscape | Adobe Premiere
