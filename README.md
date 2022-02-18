@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Jorge Carrión. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Jorge Carrión. <img src="https://media4.giphy.com/media/lmpOoSDyif7aGtwi8S/giphy.gif?cid=790b76116fbf70a557e4467153a96a397a7580fbd6521e42&rid=giphy.gif&ct=g" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
